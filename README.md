@@ -1,5 +1,7 @@
 # conversor
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/lukpod1/conversor-moedas.svg)](https://greenkeeper.io/)
+
 ## Project setup
 ```
 npm install
